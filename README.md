@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**Eng-Muhamad-Hasan/Eng-Muhamad-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profil! 🚀
 
-Here are some ideas to get you started:
+- 👑 I’m currently working on **Mobile App Development Projects**  
+- 🧩 I’m currently learning **Advanced Front-End Technologies**  
+- 💎 I’m looking to collaborate on **Innovative App Development And Open-Source Projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eng-Muhamad-Hasan&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=f0e7da&bg_color=HEX,652410,fac697" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-Muhamad-Hasan&hide=CMake,HTML&layout=normal&langs_count=6&hide_progress=true&card_width=320" />
+</a>
+
+
+
+
+---
+
+### 🌐 Connect with me
+<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/muhamadhasan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNffKIDcHQXaDwV2x7EXR9g%3D%3D)/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:460995mhmdhsn@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+---
+
