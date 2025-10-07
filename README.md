@@ -10,12 +10,17 @@ Welcome to my GitHub profil! 🚀
 
 ### 🛠️ Languages & Tools
 
-#### 📱 Frameworks & Libraries
+#### 🎨 Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=rive&logoColor=white)
 
-#### 💾 Backend & Databases
+#### 🧩 State Management
+![GetX](https://img.shields.io/badge/GetX-3DDC84?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-01579B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### ☁️ Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -28,6 +33,8 @@ Welcome to my GitHub profil! 🚀
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+
 
 
 
