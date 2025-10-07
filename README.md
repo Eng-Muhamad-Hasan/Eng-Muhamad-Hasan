@@ -21,7 +21,7 @@ Welcome to my GitHub profil! 🚀
 ### 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eng-Muhamad-Hasan&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=f0e7da&bg_color=HEX,652410,fac697" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eng-Muhamad-Hasan&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=f0e7da&bg_color=HEX,854f6c,2b124c" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-Muhamad-Hasan&hide=CMake,HTML&layout=normal&langs_count=6&hide_progress=true&card_width=320" />
